@@ -46,5 +46,6 @@ Less famous apps, more useful than time-crunching.
 None of the best rated apps are in the most rated apps. Indeed, the less an app is rated, the less it is likely to be poorly rated. It is unthinkable for an apps rated 1 million times to have only 5 star-ratings, naturally. Therefore, the 2 rankings are not comparable.
 
 10. How could you take the top 3 regarding both user ratings and number of votes?
+I would give priority to the number of votes, because the least rated apps are probably not the most useful either. I would then only select those with a total 5-star rating.
 
 11. Do people care about the price of an app? Do some queries, comment why are you doing them and the results you retrieve. What is your conclusion?
