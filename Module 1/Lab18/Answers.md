@@ -1,5 +1,8 @@
 1. What are the different genres?
 
+Games, Productivity, Weather, Shopping, Reference, Finance, Music, Utilities, Travel, "Social Networking", Sports, Business
+"Photo & Video", Navigation, Entertainment, Education, Lifestyle, "Food & Drink", News, "Health & Fitness", Medical, Book
+
 2. Which is the genre with the most apps rated?
 
 3. Which is the genre with most apps?
