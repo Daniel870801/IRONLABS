@@ -49,3 +49,6 @@ None of the best rated apps are in the most rated apps. Indeed, the less an app 
 I would give priority to the number of votes, because the least rated apps are probably not the most useful either. I would then only select those with a total 5-star rating.
 
 11. Do people care about the price of an app? Do some queries, comment why are you doing them and the results you retrieve. What is your conclusion?
+As the data set does not provide the number of downloads, I will use the number of ratings as a measure of popularity. 
+First, I will choose the free or almost free apps (<2 USD, because a 0.99 USD app is easily downloaded). The most rated app, EVERNOTE has '2974680' ratings.
+For apps >2 USD, the most rated app, CALL OF DUTY, has "only" '105776' ratings. It seems like a significant price can affect the popularity of an app.
